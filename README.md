@@ -1,5 +1,3 @@
-# Hi there 👋 I'm Dyna-ultra
-
 ## My Tech Stack
 
 <p align="left">
